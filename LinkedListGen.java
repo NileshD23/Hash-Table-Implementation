@@ -1,8 +1,4 @@
-/**
- * Written by:
- * Nilesh Domah				domah001
- * Adeyinka Omotoyinbo		omoto011
- */
+// written by Nilesh Domah
 
 public class LinkedListGen<T>
 {
