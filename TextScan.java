@@ -6,8 +6,7 @@
 // Code may be used in part for Project 5 with proper citing.
 /**
  * Implemented by:
- * Nilesh Domah             domah001
- * Adeyinka Omotoyinbo      omoto011
+ * Nilesh Domah             
  * This was taken from the CSCI 1933 Spring 2020 canvas page
  */
 
